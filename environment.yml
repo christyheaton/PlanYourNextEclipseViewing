@@ -1,0 +1,11 @@
+name: geopandasenv
+channels:
+- conda-forge
+dependencies:
+- python=3.7
+- geopandas
+- geojson 
+- folium 
+- seaborn  
+- jupyter
+- rise
